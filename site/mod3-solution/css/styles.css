@@ -11,6 +11,7 @@ body {
 .navbar {
     background-color: #ccc;
     border: 1px solid black;
+    border-radius: 0;
 }
 
 #collapsable-nav {
